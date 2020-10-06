@@ -1,0 +1,21 @@
+.container {
+  background-color: #242424 !important;
+  margin-left: 35px !important;
+  height: 520px;
+  margin-top: 30px;
+}
+
+.detailsContainer {
+  background-color: #242424 !important;
+  color: #fafafa !important;
+  margin-left: 35px !important;
+  margin-top: 20px !important;
+}
+
+.secondaryText {
+  color: #aaa;
+}
+
+.detailsContainer hr {
+  border-color: #6f6f6f !important;
+}

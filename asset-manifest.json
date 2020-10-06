@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/YouTube-Clone/static/css/main.928cfdd9.chunk.css",
+    "main.js": "/YouTube-Clone/static/js/main.11657ee4.chunk.js",
+    "main.js.map": "/YouTube-Clone/static/js/main.11657ee4.chunk.js.map",
+    "runtime-main.js": "/YouTube-Clone/static/js/runtime-main.63e862e1.js",
+    "runtime-main.js.map": "/YouTube-Clone/static/js/runtime-main.63e862e1.js.map",
+    "static/css/2.78ce9c58.chunk.css": "/YouTube-Clone/static/css/2.78ce9c58.chunk.css",
+    "static/js/2.4472ae11.chunk.js": "/YouTube-Clone/static/js/2.4472ae11.chunk.js",
+    "static/js/2.4472ae11.chunk.js.map": "/YouTube-Clone/static/js/2.4472ae11.chunk.js.map",
+    "index.html": "/YouTube-Clone/index.html",
+    "precache-manifest.9fbc405d55bb6c2f1d5f7c4253b134ee.js": "/YouTube-Clone/precache-manifest.9fbc405d55bb6c2f1d5f7c4253b134ee.js",
+    "service-worker.js": "/YouTube-Clone/service-worker.js",
+    "static/css/2.78ce9c58.chunk.css.map": "/YouTube-Clone/static/css/2.78ce9c58.chunk.css.map",
+    "static/css/main.928cfdd9.chunk.css.map": "/YouTube-Clone/static/css/main.928cfdd9.chunk.css.map",
+    "static/js/2.4472ae11.chunk.js.LICENSE.txt": "/YouTube-Clone/static/js/2.4472ae11.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/YouTube-Clone/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63e862e1.js",
+    "static/css/2.78ce9c58.chunk.css",
+    "static/js/2.4472ae11.chunk.js",
+    "static/css/main.928cfdd9.chunk.css",
+    "static/js/main.11657ee4.chunk.js"
+  ]
+}
